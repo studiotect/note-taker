@@ -33,7 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 Here is a screenshot of the homepage.
 
-![Here's a screenshot of a SVG Logo](./Assets/screenshot.jpg.jpg)
+![Here's a screenshot of a SVG Logo](./Assets/screenshot.jpg)
 
 ## Links
 
